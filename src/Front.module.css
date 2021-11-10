@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;700&family=Courgette&family=Henny+Penny&family=Irish+Grover&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;700&family=Courgette&family=Irish+Grover&display=swap');
+
+
+
+.content{
+      background-color: #043055;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background-image: url("https://c0.wallpaperflare.com/preview/184/811/591/blur-bread-rolls-counter-cup.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+
+
+}
+.title{
+    color: rgb(241, 241, 6);
+    font-weight: bolder;
+    font-size: 63px;
+    font-family: 'Henny Penny', cursive;
+    
+  
+}
+.firstline{
+    color: white;
+    font-weight: bolder;
+    font-size: 40px;
+    margin-top: 2px;
+    font-family: 'Courgette', cursive;
+}
+
+.secondline{
+    font-weight: bolder;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(241, 241, 6);
+    margin-bottom: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.thirdline{
+    font-weight: bolder;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(241, 241, 6);
+    margin-bottom: -15px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.username{
+    color:  rgb(241, 241, 6);
+    font-weight: bolder;
+    font-size: 20px;
+    margin-right: 1160px;
+}
+
+.password{
+    color:  rgb(241, 241, 6);
+    font-weight: bolder;
+    font-size: 20px;
+    margin-right: 1170px;
+}
+.name{
+    color:  rgb(241, 241, 6);
+    font-weight: bolder;
+    font-size: 20px;
+    margin-right: 1190px;
+
+}
+.usname{
+    color:  rgb(241, 241, 6);
+    font-weight: bolder;
+    font-size: 20px;
+    margin-right: 1160px;
+
+}
+.email{
+    color:  rgb(241, 241, 6);
+    font-weight: bolder;
+    font-size: 20px;
+    margin-right: 1200px;
+
+}
+.pswd{
+    color:  rgb(241, 241, 6);
+    font-weight: bolder;
+    font-size: 20px;
+    margin-right: 1160px;
+
+}
+.cpwd{
+    color:  rgb(241, 241, 6);
+    font-weight: bolder;
+    font-size: 20px;
+    margin-right: 1085px;
+
+}
+
+       
+      
+
+
+
+

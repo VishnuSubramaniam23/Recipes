@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;700&family=Courgette&family=Irish+Grover&display=swap');
+.recipe{
+	border-radius: 20px;
+	margin: 20px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	background-image: linear-gradient(to right,
+		#afe4e1 0%, #b8cbc9 0%, #b8cacb 0%,
+		#d5e28b 30%, #cdce9c 64%, #d6da16 100%);
+	align-items: center;
+	min-width: 40%;
+	/* font-family: 'Lobster', cursive;
+	font-family: 'Irish Grover', cursive; */
+    font-family: 'Courgette', cursive;
+
+}
+
+.image{
+	border-radius: 40%;
+	margin:0px 0px 20px 0px;
+}
+
+
